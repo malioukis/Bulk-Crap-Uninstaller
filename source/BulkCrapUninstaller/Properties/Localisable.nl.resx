@@ -594,7 +594,8 @@ Van tijd tot tijd zou u moeten of een van de de-installers niet is gecrashed.</v
   </data>
   <data name="MessageBoxes_OpenDirectoriesMessageBox_OpenMultiple" xml:space="preserve">
     <value>Deze bewerking opent {0} mappen tegelijk. Weet u zeker dat u verder wilt gaan?</value>
-    <comment>0 is number of directories to open</comment>
+    <comment>0 is number of directories to open
+</comment>
   </data>
   <data name="MessageBoxes_Title_Quiet_uninstall" xml:space="preserve">
     <value>Stille de-installatie</value>

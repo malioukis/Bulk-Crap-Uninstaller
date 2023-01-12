@@ -159,6 +159,7 @@
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>PortableSettingsProvider</value>
+    <comment>1</comment>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
     <value>Оболочка .NET для планировщика заданий Windows</value>

@@ -292,10 +292,7 @@
     <value>SourceForge.net</value>
   </data>
   <data name="gitHubcomToolStripMenuItem.Text" xml:space="preserve">
-    <value>GitHub.com</value>
-  </data>
-  <data name="fileHippocomToolStripMenuItem.Text" xml:space="preserve">
-    <value>FileHippo.com</value>
+    <value>SourceForge.net</value>
   </data>
   <data name="lookUpOnlineToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;بحث على الانترنت</value>

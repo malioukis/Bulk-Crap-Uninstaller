@@ -156,6 +156,7 @@
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>مزود الاعدادات المحمولة</value>
+    <comment>1</comment>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
     <value>برنامج التضمين المدار لبرنامج جدوله المهام</value>

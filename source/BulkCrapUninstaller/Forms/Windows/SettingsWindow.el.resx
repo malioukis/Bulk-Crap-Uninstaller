@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Γραμμή εντολών πριν από την έναρξη της απεγκατάστασης</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Γραμμή εντολών μετά το τέλος της απεγκατάστασης</value>
+  </data>
+  <data name="checkBoxColorblind.Text" xml:space="preserve">
+    <value>Λειτουργία αχρωματοψίας</value>
+    <comment>Switches colors to be better for color-blind people</comment>
+  </data>
+  <data name="checkBoxDpiaware.Text" xml:space="preserve">
+    <value>Ενεργοποίηση κλιμάκωσης διεπαφής με επίγνωση DPI</value>
+  </data>
+  <data name="groupBoxMisc.Text" xml:space="preserve">
+    <value>Διάφορα</value>
+  </data>
+  <data name="checkBoxAutoLoad.Text" xml:space="preserve">
+    <value>Αυτόματη φόρτωση της λίστας απεγκατάστασης με το όνομα "Default.bcul" κατά την έναρξη</value>
+  </data>
+  <data name="checkBoxRatings.Text" xml:space="preserve">
+    <value>Ενεργοποιήσε των αξιολογήσεων χρηστών των εφαρμογών</value>
+  </data>
+  <data name="checkBoxUpdateSearch.Text" xml:space="preserve">
+    <value>Αναζήτηση για ενημερώσεις κατά την εκκίνηση</value>
+  </data>
+  <data name="checkBoxSendStats.Text" xml:space="preserve">
+    <value>Αποστολή ανώνυμων στατιστικών στοιχείων χρήσης</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Γλώσσα εφαρμογής:</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Η εφαρμογή θα πρέπει να επανεκκινηθεί για να τεθεί σε ισχύ η αλλαγή γλώσσας.</value>
+  </data>
+  <data name="radioButtonBackupAsk.Text" xml:space="preserve">
+    <value>Ερώτηση δημιουργίας πάντα</value>
+  </data>
+  <data name="radioButtonBackupAuto.Text" xml:space="preserve">
+    <value>Δημιουργία αυτόματα στον φάκελο:</value>
+  </data>
+  <data name="groupBoxBackup.Text" xml:space="preserve">
+    <value>Δημιουργία αντιγράφων ασφαλείας πριν από την αφαίρεση υπολειμμάτων</value>
+  </data>
+  <data name="checkBoxShowAllBadJunk.Text" xml:space="preserve">
+    <value>Προβολή σκουπιδιών με χαμηλή εμπιστοσύνη</value>
+  </data>
+  <data name="checkBoxLoud.Text" xml:space="preserve">
+    <value>Ερώτηση αφαίρεσης προγράμματα απεγκατάστασης με παράθυρο απεγκατάστασης από μια ήσυχη εργασία</value>
+  </data>
+  <data name="checkBoxNeverFeedback.Text" xml:space="preserve">
+    <value>Να μην εμφανίζεται η ζήτηση σχολίων ή βοήθειας</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Αναζήτηση για σκουπίδια μετά την απεγκατάσταση</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Δημιουργία σημείου επαναφοράς πριν την απεγκατάσταση</value>
+  </data>
+  <data name="groupBoxMessages.Text" xml:space="preserve">
+    <value>Κουτιά μηνυμάτων</value>
+  </data>
+  <data name="checkBoxEnableExternal.Text" xml:space="preserve">
+    <value>Ενεργοποίηση εκτέλεσης εξωτερικών εφαρμογών</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Μπορείτε να καθορίσετε εντολές που θα εκτελούνται πριν και μετά την απεγκατάσταση. Μία γραμμή ισούται με μία εντολή και θα εκτελεστεί σαν να χρησιμοποιούσατε το παράθυρο διαλόγου "Εκτέλεση...".</value>
+  </data>
+  <data name="groupBoxExternal.Text" xml:space="preserve">
+    <value>Εξωτερικές εφαρμογές</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>Το BCU θα περιμένει μέχρι να ολοκληρωθεί η τρέχουσα εντολή πριν εκτελέσει την επόμενη.</value>
+  </data>
+  <data name="tabPageGeneral.Text" xml:space="preserve">
+    <value>Γενικά</value>
+  </data>
+  <data name="groupBoxLanguage.Text" xml:space="preserve">
+    <value>Γλώσσα</value>
+  </data>
+  <data name="tabPageInterface.Text" xml:space="preserve">
+    <value>Διεπαφή</value>
+  </data>
+  <data name="tabPageUninstallation.Text" xml:space="preserve">
+    <value>Απεγκατάσταση</value>
+  </data>
+  <data name="labelWinUpdateInfo.Text" xml:space="preserve">
+    <value>Ο εντοπισμός των ενημερώσεων των Windows χρησιμοποιεί το WUA, το οποίο είναι αργό. Μπορεί να χρειαστούν μερικά λεπτά για να ολοκληρωθεί.</value>
+  </data>
+  <data name="checkBoxScanWinUpdates.Text" xml:space="preserve">
+    <value>Ενημερώσεις των Windows</value>
+  </data>
+  <data name="checkBoxScanWinFeatures.Text" xml:space="preserve">
+    <value>Χαρακτηριστικά των Windows</value>
+  </data>
+  <data name="checkBoxScanStoreApps.Text" xml:space="preserve">
+    <value>Εφαρμογές Windows Store</value>
+  </data>
+  <data name="checkBoxScanSteam.Text" xml:space="preserve">
+    <value>Steam</value>
+  </data>
+  <data name="checkBoxScoop.Text" xml:space="preserve">
+    <value>Scoop</value>
+  </data>
+  <data name="checkBoxOculus.Text" xml:space="preserve">
+    <value>Oculus Store</value>
+  </data>
+  <data name="checkBoxChoco.Text" xml:space="preserve">
+    <value>Chocolatey</value>
+  </data>
+  <data name="groupBoxAppStores.Text" xml:space="preserve">
+    <value>Αποθήκευση εφαρμογών για σάρωση</value>
+  </data>
+  <data name="checkBoxScanRegistry.Text" xml:space="preserve">
+    <value>Μητρώο (συνιστάται να παραμένει ενεργοποιημένο)</value>
+  </data>
+  <data name="checkBoxScanDrives.Text" xml:space="preserve">
+    <value>Δίσκος (εντοπίζει μη καταχωρημένες εφαρμογές)</value>
+  </data>
+  <data name="checkBoxPreDefined.Text" xml:space="preserve">
+    <value>Με βάση προκαθορισμένων κανόνων</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Αναζήτηση εφαρμογών σε...</value>
+  </data>
+  <data name="tabPageDetection.Text" xml:space="preserve">
+    <value>Ανίχνευση</value>
+  </data>
+  <data name="tabPageExternal.Text" xml:space="preserve">
+    <value>Εξωτερικά εργαλεία</value>
+  </data>
+  <data name="checkBoxRemovable.Text" xml:space="preserve">
+    <value>Σάρωση αφαιρούμενων μονάδων δίσκου</value>
+    <comment>Scan pendrives, USB hard drives, SD Cards, etc.</comment>
+  </data>
+  <data name="checkBoxAutoInstallFolderDetect.Text" xml:space="preserve">
+    <value>Προσπάθεια αυτόματου εντοπισμού φακέλων προσαρμοσμένης εγκατάστασης</value>
+  </data>
+  <data name="labelProgramFolders.Text" xml:space="preserve">
+    <value>Μπορείτε να καθορίσετε τους προσαρμοσμένους φακέλους στους οποίους εγκαθιστάτε τις εφαρμογές σας (π.χ. D:\Applications). Αυτοί οι φάκελοι θα χρησιμοποιηθούν από το BCU για αναζήτηση υπολειμμάτων απεγκατάστασης, μη καταχωρημένες εφαρμογές και μερικά άλλα πράγματα. Αν και δεν είναι απαραίτητο, μια λίστα με αυτούς τους φακέλους θα επιτρέψει στο BCU να λειτουργεί καλύτερα.
+
+Οι προεπιλεγμένοι φάκελοι των Windows σαρώνονται πάντα, δεν χρειάζεται να τους συμπεριλάβετε σε αυτήν τη λίστα.
+
+Χρησιμοποιήστε πλήρεις διαδρομές φακέλων, μία διαδρομή ανά γραμμή. Μη έγκυρες διαδρομές και φάκελοι που δεν υπάρχουν θα αγνοηθούν.</value>
+  </data>
+  <data name="groupBoxProgramFolders.Text" xml:space="preserve">
+    <value>Φάκελοι εγκατάστασης προγράμματος</value>
+  </data>
+  <data name="tabPageFolders.Text" xml:space="preserve">
+    <value>Φάκελοι</value>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>Εκκίνηση</value>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>Δίκτυο</value>
+  </data>
+  <data name="tabPageMisc.Text" xml:space="preserve">
+    <value>Διάφορα</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Ρυθμίσεις απεγκατάστασης του Bulk Crap Uninstaller</value>
+  </data>
+  <data name="labelWinFeatureInfo.Text" xml:space="preserve">
+    <value>Η ανίχνευση των δυνατοτήτων των Windows χρησιμοποιεί WMI και μπορεί να είναι αργή ή ακόμα και να αποτύχει σε ορισμένα συστήματα (συνήθως υποδεικνύει καταστροφή του συστήματος).</value>
+  </data>
+  <data name="radioButtonBackupNever.Text" xml:space="preserve">
+    <value>Αποφυγή ερώτησης για δημιουργία</value>
+  </data>
+</root>

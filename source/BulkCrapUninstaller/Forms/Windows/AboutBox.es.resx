@@ -156,6 +156,7 @@
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>PortableSettingsProvider</value>
+    <comment>1</comment>
   </data>
   <data name="button1.Text" xml:space="preserve">
     <value>Cerrar</value>

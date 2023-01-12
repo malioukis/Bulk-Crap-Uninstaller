@@ -147,6 +147,7 @@
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>PortableSettingsProvider przez CodeChimp</value>
+    <comment>1</comment>
   </data>
   <data name="groupBox2.Text" xml:space="preserve">
     <value>Użyte elementy</value>

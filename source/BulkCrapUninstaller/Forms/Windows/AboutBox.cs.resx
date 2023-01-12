@@ -144,6 +144,7 @@
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>PortableSettingsPoskytovatel CodeChimp</value>
+    <comment>1</comment>
   </data>
   <data name="groupBox2.Text" xml:space="preserve">
     <value>Použité položky</value>
