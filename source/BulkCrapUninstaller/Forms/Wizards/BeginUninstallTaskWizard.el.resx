@@ -117,4 +117,94 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="labelProgress.Text" xml:space="preserve">
+    <value>1 / 6</value>
+  </data>
+  <data name="buttonExit.Text" xml:space="preserve">
+    <value>Ακύρωση</value>
+  </data>
+  <data name="buttonPrev.Text" xml:space="preserve">
+    <value>Πίσω</value>
+  </data>
+  <data name="buttonNext.Text" xml:space="preserve">
+    <value>Συνέχεια</value>
+  </data>
+  <data name="tabPage1.Text" xml:space="preserve">
+    <value>Σχετικά</value>
+  </data>
+  <data name="tabPage2.Text" xml:space="preserve">
+    <value>Επιβεβαίωση</value>
+  </data>
+  <data name="tabPage3.Text" xml:space="preserve">
+    <value>Εφαρμογές που εκτελούνται</value>
+  </data>
+  <data name="tabPage4.Text" xml:space="preserve">
+    <value>Ρυθμίσεις</value>
+  </data>
+  <data name="labelOther.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>Άλλα / Διάφορα</value>
+  </data>
+  <data name="labelConcurrentEnabled.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>Η ταυτόχρονη απεγκατάσταση είναι ενεργοποιημένη</value>
+  </data>
+  <data name="labelWillBeSilent.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>Η απεγκατάσταση θα είναι αθόρυβη</value>
+  </data>
+  <data name="labelRestorePointCreated.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Δημιουργία σημείου επαναφοράς</value>
+  </data>
+  <data name="labelFilesStillUsed.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Κάποια αρχεία εξακολουθούν να χρησιμοποιούνται από διεργασίες που εκτελούνται</value>
+  </data>
+  <data name="labelTotalSize.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Συνολικό εκτιμώμενο μέγεθος</value>
+  </data>
+  <data name="labelApps.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Εφαρμογές για απεγκατάσταση</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>ΕΝΑΡΞΗ ΑΠΕΓΚΑΤΑΣΤΑΣΗΣ</value>
+  </data>
+  <data name="tabPage5.Text" xml:space="preserve">
+    <value>Τελικό</value>
+  </data>
+  <data name="p1Heading.Text" xml:space="preserve">
+    <value>Σχετικές εφαρμογές που ίσως θέλετε να απεγκαταστήσετε</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Επιβεβαιώστε ότι όλα τα παρακάτω είναι ασφαλή για απεγκατάσταση</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Ορισμένες εφαρμογές ενδέχεται να χρειαστεί να κλείσουν πριν από την απεγκατάσταση</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Αλλάξτε τις ρυθμίσεις απεγκατάστασης</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Βεβαιωθείτε ότι οι ακόλουθες πληροφορίες είναι σωστές πριν ξεκινήσετε την απεγκατάσταση. Αυτή είναι η τελευταία ευκαιρία!</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Ξεκινήστε μια νέα εργασία απεγκατάστασης</value>
+  </data>
 </root>
